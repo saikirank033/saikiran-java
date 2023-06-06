@@ -12,4 +12,5 @@ public class staticvariable {
     public static void main(String[] args){
         System.out.println(static1.y);
     }
+>>>>>>> 2cf85d5a3881153f64d64938382b82ed713ba696
 }
