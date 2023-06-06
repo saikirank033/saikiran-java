@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 interface vehicle {
     public void vehiclesound();
 }
