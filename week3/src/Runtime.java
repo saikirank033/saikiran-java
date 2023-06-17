@@ -1,9 +1,10 @@
+
 class CE1 extends RuntimeException{
     CE1(String s){
         super(s);
     }
 }
-public class runtime {
+public class Runtime {
     public static void main(String[] args) {
         int x;
         try{
@@ -18,3 +19,5 @@ public class runtime {
 
 
 }
+
+
