@@ -4,7 +4,7 @@
     public class vowel {
 
         public static void main(String[] args) {
-            String[] strings = {"audi", "bugatti", "chevorlet", "dodge"};
+            String[] strings = {"audi", "bugatti", "chevrolet", "dodge"};
 
             Arrays.stream(strings)
                     .filter(str -> containsVowels(str))
