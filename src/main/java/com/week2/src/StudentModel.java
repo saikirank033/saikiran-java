@@ -1,3 +1,5 @@
+package com.week2.src;
+
 public class StudentModel implements Comparable<StudentModel> {
     String firstName;
     String lastName;

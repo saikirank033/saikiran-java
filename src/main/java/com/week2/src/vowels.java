@@ -1,3 +1,5 @@
+package com.week2.src;
+
 import java.util.Scanner;
 public class vowels {
 

@@ -1,3 +1,5 @@
+package com.week2.src;
+
 public class parent {
     int x;
     public static void main(String[] args) {

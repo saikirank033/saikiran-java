@@ -1,4 +1,5 @@
-import java.util.*;
+package com.week2.src;
+
 public class rword {
     public void reverseEachWordInString(String str1) {
         String[] each_words = str1.split(" ");

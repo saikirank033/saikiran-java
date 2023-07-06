@@ -1,3 +1,5 @@
+package com.week2.src;
+
 public final class finalcls {
     final int x=10;
     final void myMethod(){

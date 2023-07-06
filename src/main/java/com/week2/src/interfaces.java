@@ -1,3 +1,5 @@
+package com.week2.src;
+
 interface vehicle {
     public void vehiclesound();
 }

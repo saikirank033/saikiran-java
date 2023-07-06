@@ -1,3 +1,5 @@
+package com.week2.src;
+
 public class largestandsmallestnumber {
     public static void main(String[] args) {
 

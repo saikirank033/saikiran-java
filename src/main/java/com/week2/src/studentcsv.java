@@ -1,3 +1,5 @@
+package com.week2.src;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;

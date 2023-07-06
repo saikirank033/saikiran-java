@@ -1,3 +1,5 @@
+package com.week2.src;
+
 public class fibanocci {
 
         public static void main(String[] args) {

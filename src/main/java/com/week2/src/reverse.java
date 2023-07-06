@@ -1,3 +1,4 @@
+package com.week2.src;
 
 class Main {
     public static void main(String[] args) {

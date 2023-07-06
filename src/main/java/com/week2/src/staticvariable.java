@@ -1,4 +1,6 @@
- class static1 {
+package com.week2.src;
+
+class static1 {
     static int y;
     static void data(int a){
         y=a;
